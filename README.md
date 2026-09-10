@@ -1,68 +1,140 @@
-# Hi 👋, I'm Moncef AOUINA  
-### 🚀 Passionate Backend Engineer & CS Student from Algeria 🇩🇿
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/moncef-an">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Go+Backend+Developer;Clean+Architecture+%26+REST+APIs;Linux+%26+Docker+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm Moncef 👋
 
----
+### Backend Developer · Go · APIs · Databases
 
-### 👨‍💻 About Me
-- 🎓 **Computer Science Student** at USTHB.
-- ⚙️ Specializing in building **scalable, high-performance REST APIs** and backend systems in **Go**.
-- 🛠️ Focused on **Clean Architecture**, relational & non-relational databases (**PostgreSQL, MySQL, Redis**), and containerization (**Docker**).
-- 🐧 Daily Linux user (Fedora Workstation).
-- 📬 How to reach me: **aouinamoncef53@gmail.com**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=3rd-Year+Software+Engineering+Student;Building+REST+APIs+with+Go+%2B+PostgreSQL%2FMySQL;Currently+leveling+up%3A+System+Design+%26+Cloud" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=moncef-an&label=Profile+Views&color=00ADD8&style=flat-square)
+
+</div>
 
 ---
 
-### 🌟 Featured Projects
+## About Me
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🛒 **[E-Commerce API](https://github.com/moncef-an)** | Full-featured e-commerce backend with RBAC (Admin, Seller, Customer), inventory & product management. | `Go` `Fiber` `MySQL` `Redis` `Goose` | 🚀 Active |
-| 🌐 **[Social Media Backend](https://github.com/moncef-an)** | Scalable social platform API featuring auth, post feeds, dynamic Redis caching, and comment layers. | `Go` `Fiber` `PostgreSQL` `Redis` `JWT` | 🛠️ Maintained |
-| 📚 **[E-Learning Platform API](https://github.com/moncef-an)** | Course management system API with progress tracking, teacher earnings analytics, and enrollment logic. | `Go` `GORM` `PostgreSQL` | 📦 Completed |
-| 💳 **[Digital Wallet API](https://github.com/moncef-an)** | Digital wallet backend built with Clean Architecture, secure database transactions, and JWT authorization. | `Go` `Clean Arch` `GORM` `Bcrypt` | 📦 Completed |
+- 🎓 3rd-year Software Engineering student
+- 🖥️ Backend-focused — I build web services and REST APIs with **Go**
+- 🔍 I like learning how backend systems work from the ground up: API design, authentication, database architecture, performance, and application structure
+- 🎯 Current focus: **Backend Engineering with Go** → next up: **Cloud & DevOps**
+- 📫 **aouinamoncef53@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-**Core Languages:**  
+**Backend**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=for-the-badge)
 
-**Frameworks & Libraries:**  
-![Fiber](https://img.shields.io/badge/Go_Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Databases**
 
-**Databases & Caching:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Tools:**  
+**Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moncef-an&show_icons=true&theme=tokyonight&hide_border=true" alt="Moncef's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncef-an&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📝 [Blog API](https://github.com/moncef-an/Blog-API)**
+
+REST API with JWT auth, layered architecture (handlers → services → repositories), blog CRUD, likes, and paginated comments.
+
+`Go` `Fiber` `PostgreSQL` `GORM` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+**💳 [Online Wallet](https://github.com/moncef-an/Online-Wallet)**
+
+Digital wallet backend with role-based access control, deposits/withdrawals/transfers, and atomic DB transactions.
+
+`Go` `GORM` `MySQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✅ [To-Do API](https://github.com/moncef-an/To-Do)**
+
+REST API for task management — CRUD and repository pattern, my first project practicing backend fundamentals.
+
+`Go` `Gorilla Mux` `MySQL` `GORM`
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 Guess the Number**
+
+Small full-stack project connecting a Go backend to a simple HTML/CSS/JS frontend.
+
+`Go` `Fiber` `PostgreSQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📬 Connect with Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aouinamoncef53@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moncef-an)
+## 🎯 My Direction
+
+```
+Backend Engineering (Go)
+        ↓
+    Advanced Go
+        ↓
+ Databases & Caching
+        ↓
+   System Design
+        ↓
+  Cloud & DevOps
+```
+
+**Currently improving:** Advanced Go · Backend architecture · PostgreSQL & database design · Redis & caching · Docker · REST API design
+
+**Next up:** Cloud platforms · CI/CD · Distributed systems
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moncef-an&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncef-an&layout=compact&theme=default&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=moncef-an&theme=default&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aouinamoncef53@gmail.com)
+
+<div align="center">
+
+*Building backend systems, one project at a time.*
+
+</div>
